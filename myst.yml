@@ -20,7 +20,8 @@ project:
       children:
         - file: content/about.md
         - file: content/members.md
-    - title: Current Term - 2023W1
+    - file: content/working_group.md
+    - title: Past Terms - 2023W1
       children:
         - file: content/terms/2023W1/2023-10-05.md
         - file: content/terms/2023W1/2023-09-21.md
