@@ -6,6 +6,10 @@ Our meetings generally consist of a facilitated discussion of a paper or we may 
 
 The meeting time for the 2026W1 semester (September to December 2026) is on Fridays from 12 to 1PM.
 
+# Current Schedule - 2026W1 (September to December 2026)
+|Date | Presenter | Content |
+|-----|-----------|---------|
+| TBD | Firas Moosvi | [MIT's report on AI in Education](https://aiandeducation.mit.edu/report/) |
 # Previous Schedule
 ## 2025W1 (September to December 2025)
 
