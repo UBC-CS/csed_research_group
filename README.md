@@ -1,2 +1,3 @@
-# csed_reading_group
-Reading Group Materials, agenda, links, etc
+# UBC Computer Science Education Research Group
+
+Group Materials, agenda, links, etc
