@@ -1,0 +1,31 @@
+version: 1
+project:
+  title: CS Ed Reading Group
+  authors:
+    - name: CS Ed Reading Group
+  copyright: ''
+  exclude:
+    - LICENSE.md
+    - README.md
+  github: UBC-CS/csed_reading_group
+  bibliography:
+    - content/citations.bib
+  exports:
+    - format: pdf
+      template: plain_latex_book
+      output: exports/book.pdf
+  toc:
+    - file: content/home.md
+    - title: About Us
+      children:
+        - file: content/about.md
+        - file: content/members.md
+    - title: Current Term - 2023W1
+      children:
+        - file: content/terms/2023W1/2023-10-05.md
+        - file: content/terms/2023W1/2023-09-21.md
+site:
+  options:
+    logo: images/logo.jpg
+    folders: true
+  template: book-theme
